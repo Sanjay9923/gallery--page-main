@@ -1,7 +1,7 @@
 #  Gallery--Page-main
 ## Overview
 
-A clean and responsive image gallery built with HTML and CSS. This project displays images in a grid layout, making it ideal for portfolios, photo collections, or UI design practice. It’s lightweight, loads instantly, and works in any browser without installation.
+A clean and responsive image gallery designed to display photos in an organized grid layout. It’s suitable for portfolios, photo collections, and visual showcases. The gallery loads quickly, works smoothly across devices, and opens directly in any browser without installation.
 
 ## Features
 
