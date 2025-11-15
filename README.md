@@ -1,7 +1,26 @@
 #  Gallery--Page-main
+
 ## Overview
 
 A clean and responsive image gallery designed to display photos in an organized grid layout. It’s suitable for portfolios, photo collections, and visual showcases. The gallery loads quickly, works smoothly across devices, and opens directly in any browser without installation.
+
+
+## Screenshot
+
+### Full View (Top)
+
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/c5f26ab7-a786-4215-9b8e-413a8356d1d0" />
+
+
+### Bottom Section
+
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/bf96563e-adab-4a9b-8860-e9e20056e74a" />
+
+
+### Displays the selected image ln a lightbox viewer
+
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/4cac0e7e-1322-4144-b033-47c4da78743e" />
+
 
 ## Features
 
@@ -16,56 +35,57 @@ A clean and responsive image gallery designed to display photos in an organized 
 - Easy to customize and expand
 
 - Lightweight HTML and CSS only
+  
 
 ## Project Structure
+
 gallery--page-main/
 │
+
 ├── index.html      # Main gallery webpage
+
 ├── style.css       # Styling and layout rules
+
 └── images/         # Folder containing gallery images
 
+
 ## Getting Started
+
 Run the Project
 
 No installation or setup is required.
 
-Download or clone the repository:
+1.**Download or clone the repository**:
 
 git clone https://github.com/Sanjay9923/gallery--page-main.git
 
-Open index.html in any browser.
+
+2.**Open the index.html file in any browser**:
 
 Your gallery will load immediately.
 
+
 ## Technologies Used
 
-HTML – Page structure
+**HTML** – Page structure
 
-CSS – Styling, layout, responsiveness
+**CSS** – Styling, layout, responsiveness
 
-## Customization
-
-You can easily modify or expand the gallery:
-
-Add new images to the images/ folder
-
-Update image paths in index.html
-
-Adjust layout, colors, spacing, or hover effects in style.css
 
 ## Future Enhancements
 
-Add a lightbox (click image to open full preview)
+- Add a lightbox (click image to open full preview)
 
-Add image categories and filters
+- Add image categories and filters
 
-Add hover animations
+- Add hover animations
 
-Make the layout dynamic with JavaScript
+- Make the layout dynamic with JavaScript
 
-Add a footer or header section
+- Add a footer or header section
 
-## Project Contributor
+
+## Author
 
 Sanjay S — Developer & Designer
 
