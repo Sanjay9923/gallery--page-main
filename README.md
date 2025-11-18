@@ -5,7 +5,7 @@
 A clean and responsive image gallery designed to display photos in an organized grid layout. It’s suitable for portfolios, photo collections, and visual showcases. The gallery loads quickly, works smoothly across devices, and opens directly in any browser without installation.
 
 
-## Screenshot
+## Preview (Screenshot)
 
 ### Full View (Top)
 
@@ -38,16 +38,13 @@ A clean and responsive image gallery designed to display photos in an organized 
   
 
 ## Project Structure
-
+```bash
 gallery--page-main/
 │
-
 ├── index.html      # Main gallery webpage
-
 ├── style.css       # Styling and layout rules
-
-└── images/         # Folder containing gallery images
-
+└── script.js     # JavaScript functionality
+```
 
 ## Getting Started
 
@@ -57,8 +54,9 @@ No installation or setup is required.
 
 1.**Download or clone the repository**:
 
+```bash
 git clone https://github.com/Sanjay9923/gallery--page-main.git
-
+```
 
 2.**Open the index.html file in any browser**:
 
@@ -72,7 +70,7 @@ Your gallery will load immediately.
 **CSS** – Styling, layout, responsiveness
 
 
-## Future Enhancements
+## Future Improvements
 
 - Add a lightbox (click image to open full preview)
 
@@ -90,3 +88,9 @@ Your gallery will load immediately.
 Sanjay S — Developer & Designer
 
 Contributions are welcome. Feel free to submit pull requests or suggest improvements.
+
+
+## License
+
+This project is **free to use** and does not contains any license.
+
