@@ -1,4 +1,4 @@
-#  Gallery--Page-main
+#  Gallery--Page-Main
 
 ## Overview
 
@@ -7,19 +7,19 @@ A clean and responsive image gallery designed to display photos in an organized 
 
 ## Preview (Screenshot)
 
-### Full View (Top)
+### Top View
 
-<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/c5f26ab7-a786-4215-9b8e-413a8356d1d0" />
+![Screenshot (1)](https://github.com/user-attachments/assets/cb1ef7a9-6ce4-4db8-a105-57348e67d204)
 
 
-### Bottom Section
+### Bottom View
 
-<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/bf96563e-adab-4a9b-8860-e9e20056e74a" />
+![Screenshot (2)](https://github.com/user-attachments/assets/aa5ef753-0b26-4551-b0b4-45f489dba1bd)
 
 
 ### Displays the selected image ln a lightbox viewer
 
-<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/4cac0e7e-1322-4144-b033-47c4da78743e" />
+![Screenshot (3)](https://github.com/user-attachments/assets/76eb6a60-ce57-4b8c-adab-8047f599d401)
 
 
 ## Features
