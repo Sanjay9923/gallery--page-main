@@ -1,4 +1,4 @@
-#  Gallery--Page-Main
+# Gallery--Page-Main
 
 ## Overview
 
